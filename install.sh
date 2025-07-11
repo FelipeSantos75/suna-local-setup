@@ -52,8 +52,8 @@ git clone https://github.com/kortix-ai/suna.git /opt/suna/repo
 
 # Install backend dependencies
 echo -e "${YELLOW}Installing backend dependencies...${NC}"
-cd /opt/suna/repo/backend
-pip install -r requirements.txt
+# cd /opt/suna/repo/backend
+pip install -r backend/requirements.txt
 
 # Install frontend dependencies
 echo -e "${YELLOW}Installing frontend dependencies...${NC}"
