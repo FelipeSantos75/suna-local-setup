@@ -28,7 +28,7 @@ A complete, 100% local implementation of the [Suna AI agent framework](https://g
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/88atman77/suna-local-setup.git
+git clone https://github.com/FelipeSantos75/suna-local-setup.git
 cd suna-local-setup
 ```
 
